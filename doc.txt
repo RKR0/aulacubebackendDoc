@@ -1,0 +1,20 @@
+
+Challenges Encountered:
+
+Integrating JWT token generation and validation with Spring Security was complex. Configuring the security settings and ensuring smooth integration with the existing authentication flow required careful attention.
+
+
+Solutions Implemented:
+
+Extensive reading of JWT specifications and related documentation was undertaken. Understanding the official RFC 7519 document helped in grasping the intricacies of JWT.
+
+Utilized Spring Security's capabilities for integrating JWT. Configured custom filters, authentication providers, and user details services to seamlessly handle JWT token-based authentication.
+
+Lessons Learned:
+
+A crucial lesson learned was the importance of thoroughly reading and understanding documentation. Clear comprehension of JWT specifications and Spring Security documentation was fundamental to overcoming challenges.
+
+The experience reinforced the importance of writing modular and readable code. Creating well-structured methods for JWT token generation improved maintainability and made it easier for team members to understand and contribute.
+Continuous Learning:
+
+Acknowledged the dynamic nature of security practices and the importance of staying updated. Regularly checking for updates in libraries, frameworks, and security standards ensures the application remains resilient to emerging threats.
